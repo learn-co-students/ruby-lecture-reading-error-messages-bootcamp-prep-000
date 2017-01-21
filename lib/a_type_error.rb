@@ -1,3 +1,3 @@
 1 + 1
 
-1 + "is the loneliest number"
+"Any number on it's own" + "is a lonely number."
