@@ -1,3 +1,5 @@
+learn open ruby-lecture-reading-error-messages-bootcamp-prep-000
+
 # Intro to Reading Ruby Error Messages
 
 ## Overview
