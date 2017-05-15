@@ -1,3 +1,3 @@
 1 + 1
 
-1 + "is the loneliest number"
+"The zero manifestation " + "is the loneliest number"
