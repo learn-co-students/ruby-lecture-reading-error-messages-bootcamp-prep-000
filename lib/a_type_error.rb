@@ -1,3 +1,3 @@
-1 + 1
-
-1 + "is the loneliest number"
+first_num = 3
+second_num = 4
+sum = first_num + second_num
