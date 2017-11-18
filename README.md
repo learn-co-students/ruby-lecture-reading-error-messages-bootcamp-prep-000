@@ -68,6 +68,22 @@ Syntax errors are pretty self-explanatory: they're the result of incorrect synta
 ```ruby
 2.times do
   puts "hi"
+
+n
+W
+       expect{                                                                                                           
+         load './lib/a_division_by_zero_error.rb'                                                                        
+       }.to_not raise_error                                                                                              
+                                                                                                                         
+       expected no Exception, got #<ZeroDivisionError: divide                                                            
+d by 0> with backtrace:                                                                                                  
+         # ./lib/a_division_by_zero_error.rb:3:in `/'                                                                    
+         # ./lib/a_division_by_zero_error.rb:3:in `<top (requ                                                            
+ired)>'                                                                                                                  
+         # ./spec/no_ruby_errors_spec.rb:30:in `load'                                                                    
+         # ./spec/no_ruby_errors_spec.rb:30:in `block (4 leve                                                            
+ls) in <top (required)>'                                                                                                 
+
 ```
 
 Will result in:
