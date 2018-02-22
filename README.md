@@ -1,4 +1,4 @@
-# Intro to Reading Ruby Error Messages
+l# Intro to Reading Ruby Error Messages
 
 ## Overview
 
@@ -29,9 +29,12 @@ lib/a_name_error.rb:3:in `<main>': undefined local variable or method `hello_wor
 
 1) The location of the error, the "where".
 
+
 ```
 lib/a_name_error.rb:3:in `<main>':
 ```
+n
+
 
 * `lib/a_name_error.rb` is the file the error occurred in.
 * `3` is the line of code with the error.
