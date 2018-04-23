@@ -1,3 +1,5 @@
 1 + 1
 
-1 + "is the loneliest number"
+one = 1.to_s
+
+puts (one + " is the loneliest number")
