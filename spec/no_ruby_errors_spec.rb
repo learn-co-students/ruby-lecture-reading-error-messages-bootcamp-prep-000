@@ -1,4 +1,4 @@
-describe "Not having any errors and being all green" do
+filter_parameter_loggingdescribe "Not having any errors and being all green" do
 
   context 'NameError' do
     it 'raises a NameError when encountering undefined barewords' do
