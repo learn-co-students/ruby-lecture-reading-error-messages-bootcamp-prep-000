@@ -1,3 +1,3 @@
-"hello world"
+message ="hello world"
 
-hello_world
+puts message
