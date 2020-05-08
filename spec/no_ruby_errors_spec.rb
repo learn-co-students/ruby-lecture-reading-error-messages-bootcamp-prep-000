@@ -3,10 +3,10 @@ describe "Not having any errors and being all green" do
   context 'NameError' do
     it 'raises a NameError when encountering undefined barewords' do
       expect{
-        load './lib/a_name_error.rb'
+       load'./lib/a_name_error.rb'
       }.to_not raise_error
-    end
-  end
+    end 
+  end 
 
   context 'SyntaxError' do
     it 'raises a SyntaxError for nonsensical code' do
