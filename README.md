@@ -90,7 +90,7 @@ TypeError: String can't be coerced into Fixnum
 ```
 
 ### Division Errors
-DivisionErrors are caused when a given number is divided by 0.
+Division Errors are caused when a given number is divided by 0.
 
 ## What is a Test Suite?
 
