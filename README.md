@@ -90,7 +90,7 @@ TypeError: String can't be coerced into Fixnum
 ```
 
 ### Division Errors
-DivisionErrors are caused when a given number is divided by 0.
+Division Errors are caused when a given number is divided by 0.
 
 ## What is a Test Suite?
 
@@ -101,7 +101,7 @@ In the future, you will learn how to read tests more thoroughly and even how to 
 
 ## Instructions
 
-STOP. If you haven't watched the above video, you are making life much harder for yourself! Watch the video lecture above before attempting this lab. : )
+STOP. If you haven't watched the above video, you are making life much more harder for yourself! Watch the video lecture above before attempting this lab. : )
 
 Did you watch it? Okay, great. Let's proceed. The point of this lab is to get you comfortable reading error messages and fixing simple programs.
 
