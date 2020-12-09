@@ -1,3 +1,3 @@
-"hello world"
+puts "hello world"
 
-hello_world
+puts "Learning how to read errors in ruby"
